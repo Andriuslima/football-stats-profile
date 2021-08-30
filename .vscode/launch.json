@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run football-stats-profile",
+      "type": "python",
+      "request": "launch",
+      "program": "football-stats-profile.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
